@@ -1,0 +1,43 @@
+body {
+    background-color: #000000;
+}
+h1{
+    color: #ffffff;
+    font: 30px Georgia;
+    font-weight: bold;
+
+}
+h2{
+    color: #ffffff;
+    font: 24px Georgia;
+    font-weight: bold;
+}
+
+h4{
+    color: #ffffff;
+    font: 20px Georgia;
+    font-weight: bold;
+}
+p.text{
+    color: #ffffff;
+    font: 16px Georgia;
+}
+
+p.quote{
+    color: #ffffff;
+    font: 16px Helvetica;
+    font-style: italic;
+}
+
+p.author{
+    color: #ffffff;
+    font: 16px Helvetica;
+}
+
+a:link{
+    color: papayawhip;
+}
+
+a:visited{
+    color: palevioletred;
+}
